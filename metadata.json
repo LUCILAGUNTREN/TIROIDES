@@ -1,0 +1,5 @@
+{
+  "name": "Calculadoras de Cáncer de Tiroides",
+  "description": "Un conjunto completo de calculadoras clínicas para el manejo del cáncer de tiroides, basado en las guías de la American Thyroid Association (ATA) de 2025. Esta aplicación proporciona herramientas para TI-RADS, clasificación de Bethesda, estadificación TNM (7ª y 8ª ed.), estratificación de riesgo de la ATA, evaluación de riesgo dinámico y orientación sobre la terapia con yodo radiactivo (RAI) y levotiroxina.",
+  "requestFramePermissions": []
+}
